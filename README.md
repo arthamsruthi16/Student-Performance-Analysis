@@ -28,6 +28,10 @@
 * Matplotlib / Seaborn
 * Scikit-learn
 
----
+## models used
 
-Do you want me to keep this README **general** (like above) or make it **specific** to your dataset and code (like mentioning exact columns/features)?
+##scatter plot
+<img width="600" height="400" alt="scatter plot" src="https://github.com/user-attachments/assets/a5fd12b0-4d79-4f19-ab31-4543d842f129" />
+
+##barchart
+<img width="600" height="400" alt="barchart" src="https://github.com/user-attachments/assets/4d6c7d59-a97c-4451-a061-3824d322a0c2" />
