@@ -28,10 +28,10 @@
 * Matplotlib / Seaborn
 * Scikit-learn
 
-## models used
+## Models Used
 
-##scatter plot
+SCATTER PLOT
 <img width="600" height="400" alt="scatter plot" src="https://github.com/user-attachments/assets/a5fd12b0-4d79-4f19-ab31-4543d842f129" />
 
-##barchart
+BARCHART
 <img width="600" height="400" alt="barchart" src="https://github.com/user-attachments/assets/4d6c7d59-a97c-4451-a061-3824d322a0c2" />
