@@ -1,11 +1,5 @@
 # Student-Performance-Analysis
-**Student performance** is the measure of a student's learning, skills, and achievement in their academic work.
-
----
-
-## 📌 Description
-
-This project analyzes student performance to understand how different factors affect academic achievement. It explores patterns in grades, study habits, and other features to identify key insights.
+**Student performance** is the measure of a student's learning, skills, and achievement in their academic work.This project analyzes student performance to understand how different factors affect academic achievement. It explores patterns in grades, study habits, and other features to identify key insights.
 
 ## 🎯 Objective
 
